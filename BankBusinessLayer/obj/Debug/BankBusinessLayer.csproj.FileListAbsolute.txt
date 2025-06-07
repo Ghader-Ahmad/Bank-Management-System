@@ -1,0 +1,10 @@
+E:\Course(18)\BankProject\BankBusinessLayer\bin\Debug\BankBusinessLayer.dll
+E:\Course(18)\BankProject\BankBusinessLayer\bin\Debug\BankBusinessLayer.pdb
+E:\Course(18)\BankProject\BankBusinessLayer\bin\Debug\BankDataAccessLayer.dll
+E:\Course(18)\BankProject\BankBusinessLayer\bin\Debug\BankDataAccessLayer.pdb
+E:\Course(18)\BankProject\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.AssemblyReference.cache
+E:\Course(18)\BankProject\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Course(18)\BankProject\BankBusinessLayer\obj\Debug\BankBusi.6BD26524.Up2Date
+E:\Course(18)\BankProject\BankBusinessLayer\obj\Debug\BankBusinessLayer.dll
+E:\Course(18)\BankProject\BankBusinessLayer\obj\Debug\BankBusinessLayer.pdb
+E:\Course(18)\BankProject\BankBusinessLayer\bin\Debug\Guna.UI2.dll

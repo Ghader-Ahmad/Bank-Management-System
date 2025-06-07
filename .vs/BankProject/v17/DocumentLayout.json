@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course(18)\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A290FC1-BB59-4471-91C1-DFDA06393DF3}|BankDataAccessLayer\\BankDataAccessLayer.csproj|E:\\Course(18)\\BankProject\\bankdataaccesslayer\\clsbankdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A290FC1-BB59-4471-91C1-DFDA06393DF3}|BankDataAccessLayer\\BankDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsbankdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|e:\\course(18)\\bankproject\\bankproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\clspublicfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\clspublicfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A290FC1-BB59-4471-91C1-DFDA06393DF3}|BankDataAccessLayer\\BankDataAccessLayer.csproj|E:\\Course(18)\\BankProject\\bankdataaccesslayer\\clsclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A290FC1-BB59-4471-91C1-DFDA06393DF3}|BankDataAccessLayer\\BankDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F12AACB-2FB5-421D-A565-E6344AAF2AC7}|BankBusinessLayer\\BankBusinessLayer.csproj|E:\\Course(18)\\BankProject\\bankbusinesslayer\\clspersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F12AACB-2FB5-421D-A565-E6344AAF2AC7}|BankBusinessLayer\\BankBusinessLayer.csproj|solutionrelative:bankbusinesslayer\\clspersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\frmcurrencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\frmcurrencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|E:\\Course(18)\\BankProject\\bankproject\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57FAF98F-45E5-4516-9F85-BCE205242258}|BankProject\\BankProject_PresentationLayer.csproj|solutionrelative:bankproject\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\Login.cs",
+              "RelativeDocumentMoniker": "BankProject\\Login.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\Login.cs",
+              "RelativeToolTip": "BankProject\\Login.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIAwwFEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:42:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPublicFunctions.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\clsPublicFunctions.cs",
+              "RelativeDocumentMoniker": "BankProject\\clsPublicFunctions.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\clsPublicFunctions.cs",
+              "RelativeToolTip": "BankProject\\clsPublicFunctions.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA1wI0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:33:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmManageUsers.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "BankProject\\frmManageUsers.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\frmManageUsers.cs",
+              "RelativeToolTip": "BankProject\\frmManageUsers.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswGcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:32:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsClientData.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankDataAccessLayer\\clsClientData.cs",
+              "RelativeDocumentMoniker": "BankDataAccessLayer\\clsClientData.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankDataAccessLayer\\clsClientData.cs",
+              "RelativeToolTip": "BankDataAccessLayer\\clsClientData.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAA8wNQBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:31:57.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsBankDataAccessSettings.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankDataAccessLayer\\clsBankDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "BankDataAccessLayer\\clsBankDataAccessSettings.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankDataAccessLayer\\clsBankDataAccessSettings.cs",
+              "RelativeToolTip": "BankDataAccessLayer\\clsBankDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:30:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPersons.cs",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankBusinessLayer\\clsPersons.cs",
+              "RelativeDocumentMoniker": "BankBusinessLayer\\clsPersons.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankBusinessLayer\\clsPersons.cs",
+              "RelativeToolTip": "BankBusinessLayer\\clsPersons.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:25:25.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\Login.cs",
+              "RelativeDocumentMoniker": "BankProject\\Login.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\Login.cs [Design]",
+              "RelativeToolTip": "BankProject\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:46:02.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\Home.cs",
+              "RelativeDocumentMoniker": "BankProject\\Home.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\Home.cs [Design]",
+              "RelativeToolTip": "BankProject\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:46:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmManageUsers.cs [Design]",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "BankProject\\frmManageUsers.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\frmManageUsers.cs [Design]",
+              "RelativeToolTip": "BankProject\\frmManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:05:17.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCurrencyExchange.cs [Design]",
+              "DocumentMoniker": "E:\\Course(18)\\BankProject\\BankProject\\frmCurrencyExchange.cs",
+              "RelativeDocumentMoniker": "BankProject\\frmCurrencyExchange.cs",
+              "ToolTip": "E:\\Course(18)\\BankProject\\BankProject\\frmCurrencyExchange.cs [Design]",
+              "RelativeToolTip": "BankProject\\frmCurrencyExchange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:55:59.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

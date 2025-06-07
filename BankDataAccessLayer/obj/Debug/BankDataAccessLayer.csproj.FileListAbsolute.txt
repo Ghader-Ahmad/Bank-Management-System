@@ -1,0 +1,8 @@
+E:\Course(18)\BankProject\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.dll
+E:\Course(18)\BankProject\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.pdb
+E:\Course(18)\BankProject\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.AssemblyReference.cache
+E:\Course(18)\BankProject\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Course(18)\BankProject\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.dll
+E:\Course(18)\BankProject\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.pdb
+E:\Course(18)\BankProject\BankDataAccessLayer\bin\Debug\Guna.UI2.dll
+E:\Course(18)\BankProject\BankDataAccessLayer\obj\Debug\BankData.A6DFFFE0.Up2Date
